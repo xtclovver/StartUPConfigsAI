@@ -20,7 +20,7 @@ NODES=(
 
 # Custom URLs for aria2c parallel download
 WAN22_CHECKPOINT_URL="https://huggingface.co/Phr00t/WAN2.2-14B-Rapid-AllInOne/resolve/main/Mega-v12/wan2.2-rapid-mega-aio-nsfw-v12.2.safetensors?download=true"
-WORKFLOW_URL="https://raw.githubusercontent.com/xtclovver/shGPUsStartUPConfigsVerda/refs/heads/main/Rapid-AIO-Mega-v12_SA.json"
+WORKFLOW_URL="https://raw.githubusercontent.com/xtclovver/StartUPConfigsAI/refs/heads/main/Rapid-AIO-Mega-v12_SA.json"
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
 
