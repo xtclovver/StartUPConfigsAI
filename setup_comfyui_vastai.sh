@@ -15,7 +15,7 @@ VOLUME_DIR="/workspace/models"
 
 CHECKPOINT_URL="https://huggingface.co/Phr00t/WAN2.2-14B-Rapid-AllInOne/resolve/main/Mega-v12/wan2.2-rapid-mega-aio-nsfw-v12.2.safetensors"
 CLIP_VISION_URL="https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors"
-WORKFLOW_URL="https://raw.githubusercontent.com/xtclovver/shGPUsStartUPConfigsVerda/refs/heads/main/comfy_wf_wan2.2-ti2v-aio_uncensored.json"
+WORKFLOW_URL="https://raw.githubusercontent.com/xtclovver/StartUPConfigsAI/refs/heads/main/comfy_wf_wan2.2-ti2v-aio_uncensored.json"
 
 RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'; NC='\033[0m'
 log()  { echo -e "${GREEN}[$(date +%H:%M:%S)]${NC} $1"; }
