@@ -29,7 +29,7 @@ CONTROLNET_MODELS=()
 # Custom URLs for aria2c parallel download
 WAN22_CHECKPOINT_URL="https://huggingface.co/Phr00t/WAN2.2-14B-Rapid-AllInOne/resolve/main/Mega-v12/wan2.2-rapid-mega-aio-nsfw-v12.2.safetensors"
 CLIP_VISION_URL="https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors"
-WORKFLOW_URL="https://raw.githubusercontent.com/xtclovver/shGPUsStartUPConfigsVerda/refs/heads/main/comfy_wf_wan2.2-ti2v-aio_uncensored.json"
+WORKFLOW_URL="https://raw.githubusercontent.com/xtclovver/StartUPConfigsAI/refs/heads/main/comfy_wf_wan2.2-ti2v-aio_uncensored.json"
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
 
